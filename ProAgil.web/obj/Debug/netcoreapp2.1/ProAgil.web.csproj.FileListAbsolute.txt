@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\bin\Debug\netcoreapp2.1\ProAgil.web.deps.json
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\bin\Debug\netcoreapp2.1\ProAgil.web.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\bin\Debug\netcoreapp2.1\ProAgil.web.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\bin\Debug\netcoreapp2.1\ProAgil.web.dll
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\bin\Debug\netcoreapp2.1\ProAgil.web.pdb
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.RazorAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.RazorAssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.RazorTargetAssemblyInfo.cache
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.dll
+C:\Users\rafae\OneDrive\Documents\Udemy\ProAgil.WebApi\ProAgil.web\obj\Debug\netcoreapp2.1\ProAgil.web.pdb
